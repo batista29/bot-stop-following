@@ -2,7 +2,7 @@ import pyautogui
 import time
 
 # x always 1100
-# y always +73
+# y always +72
 
 time.sleep(5)
 
