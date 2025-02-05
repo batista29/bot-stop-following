@@ -3,6 +3,11 @@
 
 ### Step by Step
 
+* First of all you need to do this:
+```
+pip install pyautogui
+```
+
 * You need to import this two libraries -
 ```
 import pyautogui
@@ -40,3 +45,4 @@ while(following > 0):
 ```
 
 *If you need some help, send me a message*
+- [LinkedIn](https://www.linkedin.com/in/nata-batista)
