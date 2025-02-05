@@ -31,7 +31,7 @@ following = 61 #put your number of following
 while(following > 0):
     for i in range(following):
         
-        pyautogui.moveTo(x, y) #following button
+        pyautogui.moveTo(1100, 465) #following button
         time.sleep(0.3)
         pyautogui.click() #click on the button
 
